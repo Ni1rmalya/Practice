@@ -4,7 +4,7 @@ public class GuessTheNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random random = new Random();
-        int maxAttempts = 10;
+        int maxAttempts = 110
         boolean playAgain = true;
         int totalScore = 0;
         System.out.println("Welcome to Guess the Number!");
